@@ -1,3 +1,3 @@
-[X] make contract 'Hello World'
-[X] migrate
-[] unit test
+- [x] make contract 'Hello World'
+- [x] migrate
+- [ ] unit test
